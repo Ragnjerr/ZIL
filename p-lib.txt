@@ -1,0 +1,1 @@
+When the situation calls for it, like an interrupt or even a game verb, add <SETG NEW-PLAYER ,YOUR-NEW-PLAYER-OBJECT> to the condition.  YOUR-NEW-PLAYER-OBJECT is to be supplemented with your own custom player object (with flags like PERSONBIT, CONTBIT, enz).
